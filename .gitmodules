@@ -1,0 +1,6 @@
+[submodule "pki-chrome"]
+	path = pki-chrome
+	url = https://github.com/MobyPhish/pki-chrome.git
+[submodule "study-sim"]
+	path = study-sim
+	url = https://github.com/MobyPhish/study-sim.git
